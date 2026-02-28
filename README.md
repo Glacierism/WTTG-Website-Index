@@ -1,1 +1,2 @@
-# WTTG-Website-Index
+# WTTG Website Index
+This is a Github hosted website that will display every websites that Welcome To The Game 2 has. Welcome To The Game 1 support might come eventually but that might be more difficult. I plan to add support for WTTG3 when it fully releases aswell. This median is so you can freely read all of the webpages without threat. Kinda like how WTTG1 has a casual mode/web crawler simulator.
