@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color:white;
+    margin 0;
+    font-family: Arial, sans-serif;
+}
+.site-title {
+    color: white;
+    margin 0;
+.logo-container{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-decoration: none;
+    color: black;
+}
