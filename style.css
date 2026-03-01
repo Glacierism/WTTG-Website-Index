@@ -23,3 +23,21 @@ body {
 .logo-side img {
     display: block;
 }
+.link-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    padding: 40px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.link-container a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 19px;
+    transition: 0.3s;
+}
+.link-container a:hover {
+    color: #0056b3;
+}
