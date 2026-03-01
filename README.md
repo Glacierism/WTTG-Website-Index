@@ -7,3 +7,4 @@ Currently all Welcome to the game 2 assets are pulled from the WTTG2 assistant f
 * Make the index not look like hot garbage. (learn CSS better instead of having Gemini coaching me on how css works)
 * Fix the sites redirecting urls. Right now it leads to the WTTG2 assistant when clicking on any link inside of a site.
 * I will probably make the site look more like the original hidden wiki. Which is what the wikis in WTTG are based on.
+* Add WTTG3 demo websites. I was going to wait until it fully releases but the websites are easy to grab and fix for normal web usage. Very easy to fix redirects.
