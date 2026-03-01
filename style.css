@@ -41,3 +41,20 @@ body {
 .link-container a:hover {
     color: #0056b3;
 }
+.site-entry {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.site-entry a {
+    display: block;
+    text-decoration: none;
+    color:#007bff;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.site-entry p {
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: normal;
+}
