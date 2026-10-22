@@ -11,3 +11,6 @@ Every site/page and its assets listed in this index is intellectual property of 
 * I will probably make the site look more like the original hidden wiki. Which is what the wikis in WTTG are based on.
 * ~~Add WTTG3 demo websites. I was going to wait until it fully releases but the websites are easy to grab and fix for normal web usage. Very easy to fix redirects.~~
 * Fix WTTG3 redirects not doing anything 
+
+#NOTICE
+After the terrible state of Welcome to the game 3 it is hard to motivate myself to working on this project. The way i work is with waves of hyper focusing. And with the detrimental waste that WTTG3 was and currently is its hard to want to get into the series again. If and when adam fixes wttg3 and makes it better i will pick it back up and start making this again. Until then sorry, dont expect much work going into this repo.
